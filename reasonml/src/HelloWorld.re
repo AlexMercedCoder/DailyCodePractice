@@ -42,3 +42,57 @@ switch(superman){
 | Support => "I am just me"};
 
 Js.log(result)
+
+/* LISTS AND ARRAYS */
+
+let myList:list(int) = [1,2,3,4,5]
+
+Js.log(myList)
+
+let nextList = [0, ...myList]
+
+Js.log(nextList)
+
+let myArray:array(int) = [|1,2,3|]
+
+Js.log(myArray)
+Js.log(myArray[2])
+
+/* FUNCTIONS AND CURRYING */
+
+let myFunc = (x, y, z) => x + y + z;
+
+let one = myFunc(1);
+let two = one(2);
+let three = two(3);
+
+Js.log(three);
+
+/* LABELED FUNCTION ARGUMENTS */
+
+let thisFunc = (~first, ~last) => {
+    first ++ " " ++ last;
+};
+
+Js.log(thisFunc(~last="Merced", ~first="Alex"));
+
+/* IF AND ELSE */
+
+let myIf = if(false){
+    5
+} else {
+    6
+}
+
+Js.log(myIf)
+
+/* THE PIPE OPERATOR */
+
+let addOne = (x) => x + 1
+
+let myResult = 5
+    ->addOne
+    ->addOne
+    ->addOne
+
+Js.log(myResult)

@@ -4,4 +4,17 @@
 
 console.log("Hello World");
 
+var ejs = ([1,2,3,4,5].reverse());
+
+console.log(ejs);
+
+var string = "World";
+
+var string2 = "Hello " + string;
+
+console.log(string2);
+
+exports.ejs = ejs;
+exports.string = string;
+exports.string2 = string2;
 /*  Not a pure module */

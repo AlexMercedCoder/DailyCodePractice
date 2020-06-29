@@ -2,6 +2,10 @@
 
 Created a Queue in JS and TS
 
+Practiced functions, pipes, lists, arrays in ReasonML
+
+Practiced functions, records, hash maps, options in OCAML.
+
 ## 6-28-2020
 
 Created this repository to do daily coding practice
