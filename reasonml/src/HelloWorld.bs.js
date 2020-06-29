@@ -4,4 +4,32 @@
 
 console.log("Hello World");
 
+var myVar = "Hello World";
+
+console.log(myVar);
+
+var alex = {
+  name: "Alex Merced",
+  age: 34
+};
+
+console.log(alex);
+
+var superman = {
+  TAG: /* Hero */0,
+  _0: "Superman"
+};
+
+var result;
+
+result = typeof superman === "number" ? "I am just me" : (
+    superman.TAG ? "I am Superman and I'm here to ruin the day" : "I am Superman and I'm here to save the day"
+  );
+
+console.log(result);
+
+exports.myVar = myVar;
+exports.alex = alex;
+exports.superman = superman;
+exports.result = result;
 /*  Not a pure module */
