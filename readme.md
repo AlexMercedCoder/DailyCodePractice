@@ -1,6 +1,6 @@
 ## 6-30-2020
 
-Created a Queue in Ruby
+Created a Queue and Stack in Ruby
 
 ## 6-29-2020
 

@@ -22,6 +22,7 @@ class Queue
     end
 end
 
+########Example Code##########
 
 
 LineRide = Queue.new
