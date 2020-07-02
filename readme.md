@@ -1,3 +1,7 @@
+## 7-01-20
+
+Higher Order Functions in Ruby
+
 ## 6-31-2020
 
 Function drills in Ruby
