@@ -1,3 +1,6 @@
+## 8-08-20
+Working with Ruby Symbols, making a Command Line Game using classes
+
 ## 07-07-20
 Created a Queue Data Structure in Go
 

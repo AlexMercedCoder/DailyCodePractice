@@ -1,0 +1,3 @@
+cheese = gets
+
+puts cheese
