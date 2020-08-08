@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROSHGtt+wzGEqVnJqawsiWYPo450PRifZ8+rE03WAs/cYhmw+Rnc6rzZw18ZG+feuvZkj1K+lOWDAekJzZPWOw==",
+  "success": true,
+  "projectFilePath": "/home/alexmerced/development/Personal/DailyCodePractice/F#/helloworld/helloworld.fsproj",
+  "expectedPackageFiles": [
+    "/home/alexmerced/.nuget/packages/fsharp.core/4.7.1/fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

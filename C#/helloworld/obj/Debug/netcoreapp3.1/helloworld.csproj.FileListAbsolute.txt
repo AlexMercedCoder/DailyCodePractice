@@ -1,0 +1,13 @@
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/bin/Debug/netcoreapp3.1/helloworld
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/bin/Debug/netcoreapp3.1/helloworld.deps.json
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.json
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.dev.json
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/bin/Debug/netcoreapp3.1/helloworld.dll
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/bin/Debug/netcoreapp3.1/helloworld.pdb
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.csprojAssemblyReference.cache
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfoInputs.cache
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfo.cs
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.csproj.CoreCompileInputs.cache
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.dll
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.pdb
+/home/alexmerced/development/Personal/DailyCodePractice/C#/helloworld/obj/Debug/netcoreapp3.1/helloworld.genruntimeconfig.cache
