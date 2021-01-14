@@ -3,9 +3,6 @@
     "additionalProbingPaths": [
       "/home/alexmerced/.dotnet/store/|arch|/|tfm|",
       "/home/alexmerced/.nuget/packages"
-    ],
-    "configProperties": {
-      "System.Globalization.Invariant": true
-    }
+    ]
   }
 }
