@@ -1,0 +1,16 @@
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/practice
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/practice.deps.json
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/practice.runtimeconfig.json
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/practice.runtimeconfig.dev.json
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/practice.dll
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/ref/practice.dll
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/bin/Debug/net5.0/practice.pdb
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.csprojAssemblyReference.cache
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.AssemblyInfoInputs.cache
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.AssemblyInfo.cs
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.csproj.CoreCompileInputs.cache
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.dll
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/ref/practice.dll
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.pdb
+/home/alexmerced/development/Personal/DailyCodePractice/C#/practice/obj/Debug/net5.0/practice.genruntimeconfig.cache
