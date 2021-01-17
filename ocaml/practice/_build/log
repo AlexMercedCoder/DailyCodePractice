@@ -1,0 +1,6 @@
+# dune ocaml-merlin --no-print-directory
+# OCAMLPARAM: unset
+# Workspace root:
+# /home/alexmerced/development/Personal/DailyCodePractice/ocaml/practice
+$ /usr/bin/nproc > /tmp/dunefa116c.output 2> /dev/null
+# Auto-detected concurrency: 12

@@ -35,7 +35,17 @@ int main(int argc, char *argv[]) {
 
     printf("%d \n", theArrLength);
 
+    theArrLength = sizeof *anArray/ sizeof anArray[0];
+
+    anArray = arrayMethod(anArray, theArrLength, 7);
+
+    printf("%d \n", anArray[6]);
+
+    printf("%d \n", theArrLength);
+
     free(anArray);
+
+
 
 }
 
