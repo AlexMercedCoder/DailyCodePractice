@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwfSLegJZwNX6bi0rbnr4HTKSw97uCzNhP3X8CcWIqRQOrOYLtxJys7okImH8h79FjdII1MaC4J7xuOfiFZgtw==",
+  "success": true,
+  "projectFilePath": "/home/alexmerced/development/Personal/DailyCodePractice/F#/helloworld50/helloworld50.fsproj",
+  "expectedPackageFiles": [
+    "/home/alexmerced/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
