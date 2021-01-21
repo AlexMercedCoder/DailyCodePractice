@@ -4,4 +4,14 @@
 
 console.log("Hello, World!");
 
+var myList = [
+  1,
+  2,
+  3,
+  4
+];
+
+console.log(myList);
+
+exports.myList = myList;
 /*  Not a pure module */
