@@ -1,4 +1,4 @@
-(* DECLATE A TYPE OF RECORD *)
+(* DECLARE A TYPE OF RECORD
 type person = {name : string; age : int};;
 
 (* RECORD CAN BE IMPLIED BASED ON PROPERTIES *)
@@ -7,4 +7,13 @@ let alex = {name = "Alex"; age = 5};;
 (* ACCESS THE PROPERTIES WITH DOT NOTATION *)
 let () = print_endline alex.name;;
 
-let () = print_endline(string_of_int(alex.age));;
+let () = print_endline(string_of_int(alex.age));; *)
+
+(* ///////////////////////////////////////////////////////
+/////////////////////////////////////////////////////// *)
+
+type traffic = | Red | Yellow | Green ;;
+
+let stop : traffic = Red;;
+
+let () = print_endline(string_of_int(stop));;

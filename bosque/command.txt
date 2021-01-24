@@ -1,0 +1,1 @@
+node /bosque/impl/bin/runtimes/exegen/exegen.js -o <result> <filename>

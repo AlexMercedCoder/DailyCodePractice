@@ -1,0 +1,1 @@
+alias bosque="node /bosque/impl/bin/runtimes/exegen/exegen.js"

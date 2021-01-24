@@ -1,0 +1,11 @@
+namespace NSMain;  
+entrypoint  
+
+function main(): {hey: String, you: String} { 
+ var words: {hey: String, you: String} = hello(); 
+ return words;
+}
+
+ function hello(): {hey: String, you: String} {
+     return {hey = "Hello", you = "world"};
+ }
