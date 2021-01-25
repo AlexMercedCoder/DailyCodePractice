@@ -2,9 +2,13 @@
 
 (* string reverse function found here https://gist.github.com/philtomson/960227 *)
 let string_rev str =
+  (* Define function that matches charachter in string to pattern *)
   let rec aux  idx = match idx with
+    (* If the index is 0 then return the string *)
     0 -> Char.escaped (str.[0])
+    (*If any other index, append then run the match again*)
   | _ -> (Char.escaped str.[idx]) ^ (aux (idx-1)) in
+(*invoke the function passing the final index, the rest recursively are called*)
  aux ((String.length str)-1) ;;
 
 let is_palindrome (s: string): bool = 
