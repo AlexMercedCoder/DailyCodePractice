@@ -1,30 +1,16 @@
 #include <iostream>
-#include <string>
-#include <cstring>
 
 using namespace std;
-class Dog {
-    public:
-    string name;
-    int age;
-    Dog(string n, int a);
-    void bark();
-};
 
-Dog::Dog(string n, int a){
-    name = n;
-    age = a;
-}
-
-void Dog::bark(){
-    std::cout << "Woof! \n";
+int addNums (int x, int y){
+    return x + y;
 }
 
 int main() {
-    Dog sparky("Sparky", 5);
-    sparky.bark();
+    int num = addNums(5, 6); //returns 11
+    std::cout << "Hello World \n";
 }
 
 
 
-// g++ -o test test.cpp && ./test
+// g++ -o HelloWorld HelloWorld.cpp && ./HelloWorld
