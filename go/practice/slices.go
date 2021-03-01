@@ -12,7 +12,7 @@ func main(){
 }
 
 func isPalindrom(str string)bool {
-	return str == reverseString(str)
+	return strings.ToLower(str) == strings.ToLower(reverseString(str))
 }
 
 func reverseString(str string) string {
