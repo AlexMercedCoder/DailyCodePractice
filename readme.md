@@ -1,3 +1,6 @@
+## 07-30-21
+There has been plenty of additions I didn't note in this document, added flatten.js in the js folder.
+
 ## 8-10-20
 Some drills with the Ballerina HTTP library and classes/objects in the Ballerina language
 
