@@ -1,0 +1,1 @@
+const Hello = true ? "Hello" : "Goodbye"
