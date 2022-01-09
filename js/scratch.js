@@ -8,3 +8,5 @@ $.ajax(url1)
         
     })
 })
+
+console.log("Hello WOrld")
