@@ -10,3 +10,4 @@ $.ajax(url1)
 })
 
 console.log("Hello WOrld")
+console.log("Hello World2")
