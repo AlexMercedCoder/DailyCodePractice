@@ -1,13 +1,7 @@
-const url1 = ""
-const url2 = ""
+const me = {
+    name: "Alex Merced",
+    age: 36
+}
+// destructuring
 
-$.ajax(url1)
-.then((data) => {
-    $.ajax(url2)
-    .then((data2) => {
-        
-    })
-})
-
-console.log("Hello WOrld")
-console.log("Hello World2")
+const {name, age} = me
