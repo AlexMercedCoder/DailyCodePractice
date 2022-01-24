@@ -12,3 +12,5 @@ const alex = {
 
 console.log(alex + alex)
 console.log(alex)
+
+console.log("gouda")
