@@ -1,26 +1,24 @@
-#hamburglar, #grimace {
+body {
+    text-align:center;
+}
+
+#grimace, #hamburglar {
     width: 200px;
     height: 200px;
-    object-fit: cover;
-    display: block;
-    margin: auto;
+    object-fit:cover;
     border-radius: 180px;
-    transition: filter 3s;
-    position: fixed;
+    display:block;
+    margin: auto;
+    position:fixed;
+    transition: filter .3s, border .3s;
 }
 
 #grimace {
-    left: 20%;
+    z-index: 2;
+    left: 150px;
 }
 
-#hamburglar {
-    z-index: 2 ;
-}
-
-#hamburglar:hover {
-    filter: grayscale(100%)
-}
-
-body {
-    text-align: center;
+#grimace:hover, #hamburglar:hover {
+    filter: grayscale(100%);
+    border: 3px dotted gray;
 }
