@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/alexmerced/development/personal/Personal/DailyCodePractice/scala/scala-project-1/project1/src/main/scala/Main.scala:6:40 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m6 |[0m  [33mval[0m [36mchildren[0m: [35mList[String][0m = [33mfor[0m b <- budddies [33myield[0m b + [31m" jr."[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                                        [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                                        Not found: budddies[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
