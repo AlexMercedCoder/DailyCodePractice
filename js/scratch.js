@@ -7,4 +7,4 @@ const op = "+"
 console.log(eval(`${a} ${op} ${b}`))
 
 // using function contructor
-console.log((new Function('a','b',`a ${op} b`)(a,b)))
+console.log((new Function('a','b',`return a ${op} b`)(a,b)))
